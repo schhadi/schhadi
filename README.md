@@ -80,5 +80,6 @@ Voice acivitated assistant focused on helping new students navigated in the Inte
 <p>
   <a href="https://www.linkedin.com/in/hadischarbrodt"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:h.scharbrodt@gmail.com"><img src="https://img.shields.io/badge/-Email-gray?logo=gmail&logoColor=white" /></a>
-  <a href="https://schhadi.github.com/hadisite"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="
+    https://schhadi.github.io/hadisite/"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
 </p>
