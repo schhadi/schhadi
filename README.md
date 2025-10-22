@@ -11,7 +11,7 @@ Computer Science & Business professional passionate about tech-driven solutions 
 ## What I’m focused on right now
 - Learning machine learning, particular in pytorch
 - Interinships at tech companies
-- - A lot of neetcode 
+- A lot of neetcode 
 ---
 
 ## Experience
