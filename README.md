@@ -63,16 +63,13 @@ Voice acivitated assistant focused on helping new students navigated in the Inte
 ---
 
 <!-- GitHub stats -->
-### Some Stats 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=schhadi&show_icons=true&theme=default&hide_border=true" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=schhadi&theme=default&hide_border=true" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schhadi&layout=compact&hide_border=true" />
-</p>
+### Some Stats
+<a href="https://donchia.tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonChiaQE&show_icons=true&theme=transparent" />
+</a>
+<a href="https://donchia.tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonChiaQE&langs_count=7&layout=compact&theme=transparent" />
+</a>
 
 ---
 
