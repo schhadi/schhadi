@@ -32,10 +32,12 @@ Improved student performance (average +4 IB points).
 
 Compared Merge Sort, Radix Sort and Bubble Sort and compared their efficencies. 
 
-**Psychology Quiz App**<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+**Psychology Quiz App** <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+
 Flashcard style Psychology Quiz App that randomly generated questions from a predfefined list. One could view questions, look at studies and concepts assoicated with that questions. Improved revision time be 30%
 
 **Naviation Voice Assistant • School Project** <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+
 Voice acivitated assistant focused on helping new students navigated in the International School in Lund Katerdalskolan. 
 
 ---
