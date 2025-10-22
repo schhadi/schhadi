@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- Title & intro -->
+<h1 align="left">Hey there!</h1>
+<p>
+I’m a software developer focused on [your focus]. I love building [X] that helps [Y].
+</p>
 
-<!--
-**schhadi/schhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Quick highlights -->
+### Experiences & Achievements
+- [Role/Org 1]
+- [Role/Org 2]
+- Awards/Scholarships: [e.g., WWDC Scholar]
 
-Here are some ideas to get you started:
+<!-- Tech badges (shields.io) -->
+### Technologies & Tools
+<p>
+  <img src="https://img.shields.io/badge/-Python-blue" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/-React_Native-61dafb" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats cards -->
+### Some Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+</p>
+
+<!-- Links -->
+### Find me at...
+- Website: [yourdomain]
+- LinkedIn: [link]
