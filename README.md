@@ -64,12 +64,15 @@ Voice acivitated assistant focused on helping new students navigated in the Inte
 
 <!-- GitHub stats -->
 ### Some Stats
-<a href="https://donchia.tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonChiaQE&show_icons=true&theme=transparent" />
+
+
+<a href="https://schhadi.github.io/hadisite/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schhadi&langs_count=7&layout=compact&theme=transparent" />
 </a>
-<a href="https://donchia.tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonChiaQE&langs_count=7&layout=compact&theme=transparent" />
-</a>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=schhadi&langs_count=7&layout=compact&theme=transparent" />
+</p>
 
 ---
 
