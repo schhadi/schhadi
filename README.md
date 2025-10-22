@@ -16,7 +16,7 @@ Computer Science & Business professional passionate about tech-driven solutions 
 
 ## Experience
 
-**Software Intern • Al Nayzak Organisation, Jerusalem • Jul 2025 – Present**  
+**Software Intern • Al Nayzak Organisation, Jerusalem • Jul 2025 – Oct 2025**  
 Co-developed two large-scale Next.js platforms serving 1 000+ students.  
 Built automated candidate-matching tools and tournament dashboards reducing errors 40%.
 
