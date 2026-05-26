@@ -1,86 +1,140 @@
-# Hey, I’m Hadi 👋
+<div align="center">
 
-Computer Science & Business professional passionate about tech-driven solutions that empower people.
+# Hadi Scharbrodt
 
-- 🌍 Based in Sweden  
-- 💻 19 years old — programming since age 11  
-- 🧠 Skilled in Python, React, Next.js, and data analytics  
+**Computer Science & Business · Building tech that empowers people**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadischarbrodt)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.scharbrodt@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://schhadi.github.io/hadisite/)
 
-## What I’m focused on right now
-- Learning machine learning, particular in pytorch
-- Interinships at tech companies
-- A lot of neetcode 
----
-
-## Experience
-
-**Software Intern • Al Nayzak Organisation, Jerusalem • Jul 2025 – Oct 2025**  
-Co-developed two large-scale Next.js platforms serving 1 000+ students.  
-Built automated candidate-matching tools and tournament dashboards reducing errors 40%.
-
-**Founder • MyMateTeaches, Lund • Sep 2024 – Feb 2025**  
-Launched Instagram-based EdTech platform reaching 20+ IB students weekly.  
-Improved student performance (average +4 IB points).
+</div>
 
 ---
 
-## Projects
+### About
 
-**Sorting Algotihm Essay • School Project • Math Essay • Grade 7 (highest grade)**   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-
-Compared Merge Sort, Radix Sort and Bubble Sort and compared their efficencies. 
-
-**Psychology Quiz App** <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-
-Flashcard style Psychology Quiz App that randomly generated questions from a predfefined list. One could view questions, look at studies and concepts assoicated with that questions. Improved revision time be 30%
-
-**Naviation Voice Assistant • School Project** <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-
-Voice acivitated assistant focused on helping new students navigated in the International School in Lund Katerdalskolan. 
+```text
+📍  Based in Sweden
+🎓  19 — programming since age 11
+🧠  Python · TypeScript · React · Next.js · Data
+🌱  Currently learning ML with PyTorch
+```
 
 ---
 
-## Achievements
-- Founded Sweden’s first nationwide **IB Volleyball Tournament** (200+ participants)  
-- Represented Sweden at **EU Youth Week 2024** in Brussels  
-- **Model UN Delegate (Malmö 2024)** — Gender Equality & Women’s Empowerment  
-- **Volunteer at Shatila Community Center 2025** — Education & Youth Engagement  
+### 🔭 Right now
+
+- 🛠  Building a **Next.js 15 + Payload CMS 3** multilingual site (EN/DE) for a research client — fully block-based CMS, deployed on Vercel
+- 📚  Deep-diving into **machine learning** with PyTorch
+- 💼  Pursuing **tech internships**
+- ⚡  Grinding **NeetCode** for DSA fluency
 
 ---
 
-## Technologies & Tools
+### 💼 Experience
+
+**Software Intern** — *Al Nayzak Organisation, Jerusalem* · `Jul 2025 – Oct 2025`
+Co-developed two large-scale Next.js platforms serving **1,000+ students**. Built automated candidate-matching tools and tournament dashboards that cut manual errors by **40%**.
+
+**Founder** — *MyMateTeaches, Lund* · `Sep 2024 – Feb 2025`
+Launched an Instagram-based EdTech platform reaching **20+ IB students weekly**. Students improved by an average of **+4 IB points**.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌐 Oliver Scharbrodt — Multilingual CMS Website
+> A fully block-based site for a legal researcher. Pages are composed from a reorderable block library (hero, timeline, tag chips, CTAs…) editable via Payload's admin UI.
+
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Project%20Management-007ACC" />
-  <img src="https://img.shields.io/badge/-Data%20Analytics-4CAF50" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payload_3-000000?style=flat-square&logo=payload&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+#### 📊 Sorting Algorithm Essay — *Math Essay · Grade 7 (highest)*
+> Compared Merge Sort, Radix Sort, and Bubble Sort across input sizes and analyzed their efficiencies.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+#### 🧠 Psychology Quiz App
+> Flashcard-style quiz app that randomly generates questions from a curated bank, surfacing the studies and concepts tied to each. **Cut revision time by ~30%.**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+#### 🗺️ Navigation Voice Assistant — *School Project*
+> Voice-activated assistant that helps new students navigate Katedralskolan, the International School in Lund.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+---
+
+### 🏆 Achievements
+
+- 🏐  Founded Sweden's **first nationwide IB Volleyball Tournament** (200+ participants)
+- 🇪🇺  Represented Sweden at **EU Youth Week 2024** in Brussels
+- 🕊  **Model UN Delegate** (Malmö 2024) — Gender Equality & Women's Empowerment
+- 🌍  **Volunteer**, Shatila Community Center 2025 — Education & Youth Engagement
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payload&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+**Data & Infra**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Other**
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analytics-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project_Management-007ACC?style=flat-square" />
 </p>
 
 ---
 
-<!-- GitHub stats -->
-### Some Stats
+### 📊 GitHub
 
+<div align="center">
 
-<a href="https://schhadi.github.io/hadisite/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schhadi&langs_count=7&layout=compact&theme=transparent" />
+<a href="https://github.com/schhadi">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=schhadi&show_icons=true&hide_border=true&theme=transparent&icon_color=3178C6&title_color=3178C6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schhadi&layout=compact&langs_count=7&hide_border=true&theme=transparent&title_color=3178C6" />
 </a>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=schhadi&langs_count=7&layout=compact&theme=transparent" />
-</p>
+<img src="https://streak-stats.demolab.com?user=schhadi&hide_border=true&theme=transparent&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" />
+
+</div>
 
 ---
 
-## Find me
-<p>
-  <a href="https://www.linkedin.com/in/hadischarbrodt"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:h.scharbrodt@gmail.com"><img src="https://img.shields.io/badge/-Email-gray?logo=gmail&logoColor=white" /></a>
-  <a href="https://schhadi.github.io/hadisite/"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+
+*Always open to interesting problems, internships, and collaborations.*
+
+</div>
