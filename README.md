@@ -34,6 +34,9 @@
 
 ### 💼 Experience
 
+**Software Intern** — *PlanRadar* · `Jan 2026 – June 2026`
+Contributed bug fixes to a React/TypeScript web app used across **65+ countries**, including resolving attachment viewer rendering issues and navigation bugs.
+
 **Software Intern** — *Al Nayzak Organisation, Jerusalem* · `Jul 2025 – Oct 2025`
 Co-developed two large-scale Next.js platforms serving **1,000+ students**. Built automated candidate-matching tools and tournament dashboards that cut manual errors by **40%**.
 
