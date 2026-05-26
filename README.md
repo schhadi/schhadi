@@ -3,7 +3,7 @@
 Computer Science & Business professional passionate about tech-driven solutions that empower people.
 
 - 🌍 Based in Sweden  
-- 💻 18 years old — programming since age 11  
+- 💻 19 years old — programming since age 11  
 - 🧠 Skilled in Python, React, Next.js, and data analytics  
 
 ---
