@@ -1,6 +1,6 @@
 <h1>Hadi Scharbrodt</h1>
 
-`SOFTWARE ENGINEER` · Düsseldorf
+`SOFTWARE ENGINEER` · Southhampton
 
 I build the internal software that companies actually run on — dashboards,
 scheduling, ops tooling. Most of it is for people standing in a field at 6am
