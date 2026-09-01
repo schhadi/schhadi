@@ -11,12 +11,12 @@ the old way, or nobody uses it.
 
 <table>
 <tr>
-  <td width="110"><sub><b>Aug 2026 — Present</b></sub></td>
-  <td><b>Backend Developer</b> · BHG.DIGITAL<br><sub>Düsseldorf</sub></td>
-</tr>
-<tr>
   <td width="110"><sub><b>June 2026 — Present</b></sub></td>
   <td><b>Lead Software Engineer</b> · TM Foodsolutions<br><sub>Würzburg — in-house dashboard and fleet tooling for an event catering business</sub></td>
+</tr>
+<tr>
+  <td width="110"><sub><b>Aug 2026</b></sub></td>
+  <td><b>Backend Developer</b> · BHG.DIGITAL<br><sub>Düsseldorf</sub></td>
 </tr>
 <tr>
   <td width="110"><sub><b>Jan - June 2026</b></sub></td>
